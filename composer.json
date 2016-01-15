@@ -3,7 +3,6 @@
   "description": "Its a superLiba for all !",
   "version": "1.0.0",
   "require": {
-    "php": ">=5.3.0",
-    "another-vendor/package": "1.*"
+    "php": ">=5.3.0"
   }
 }
